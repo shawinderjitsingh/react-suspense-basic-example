@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Paramjeet Kaur",
+      "country": "India",
+      "state": "Punjab",
+      "address": "293,St. No.13,Baba Deep Singh Nagar,Sua Road,Opp. GNE College",
+      "tandc": true
+    },
+    {
+      "id": "Shawinder Jit",
+      "name": "Shawinder Jit Singh",
+      "country": "India",
+      "state": "Punjab",
+      "address": "123",
+      "tandc": true
+    },
+    {
+      "id": "Ripandeep",
+      "name": "Ripandeep Kaur",
+      "country": "India",
+      "state": "Punjab",
+      "address": "1234",
+      "tandc": true
+    }
+  ]
+}
