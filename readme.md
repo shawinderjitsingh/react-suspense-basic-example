@@ -1,6 +1,9 @@
-# react 18 basic example with form submit and view submitted values<br><br>
+# Example of React Suspense <br><br>
 Implemented React Suspense using `swr`<br><br>
-For Backend json-server is used  <br>
+This project will submit form and save record 
+Create Report of saved records
+Option to Delete record
+`json-server` is used for Backend  <br>
 use `npm install`<br>
     `npm run start`<br><br>
 
